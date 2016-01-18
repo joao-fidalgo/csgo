@@ -1,4 +1,5 @@
 # Dockerized CSGO Dedicated Server
+ This is the repository for docker joaofidalgo/csgo automated builds
 
 # Usage
 ## Classic Casual
